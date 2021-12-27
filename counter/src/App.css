@@ -1,0 +1,41 @@
+.app{
+  margin-left: 500px;
+
+}
+.butd{
+  background-color: blue;
+  margin:5px;
+  width:80px;
+  height:30px;
+  border:1px solid gray;
+  border-radius:10%
+
+}
+.buta{
+  background-color: green;
+
+  margin:5px;
+  width:80px;
+  height:30px;
+  border:1px solid gray;
+  border-radius:10%
+
+}
+.buts{
+  background-color: red;
+  margin:5px;
+  width:80px;
+  height:30px;
+  border:1px solid gray;
+  border-radius:10%
+
+}
+.count{
+  margin-left: 50px;
+
+  
+}
+body{
+  background-color: rgb(0, 255, 149);
+
+}
